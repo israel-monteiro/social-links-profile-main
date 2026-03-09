@@ -1,0 +1,19 @@
+:root {
+    --color-white: hsl(0, 0%, 100%);
+    --color-green: hsl(75, 94%, 57%);
+    --color-grey-700: hsl(0, 0%, 20%);
+    --color-grey-800: hsl(0, 0%, 12%);
+    --color-grey-900: hsl(0, 0%, 8%);
+
+    --font-size-text-preset-1: 24px;
+    --font-size-text-preset-2: 14px;
+
+
+    --spacing-50: 4px;
+    --spacing-100: 8px;
+    --spacing-150: 12px;
+    --spacing-200: 16px;
+    --spacing-300: 24px;
+    --spacing-500: 40px;
+
+}

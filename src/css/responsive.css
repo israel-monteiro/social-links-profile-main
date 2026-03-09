@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    main {
+        padding: var(--spacing-500);
+    }
+}
+
+@media (max-width: 410px) {
+    main{
+        padding: 0 var(--spacing-300);
+    }
+
+    .profile-card {
+        padding: var(--spacing-300);
+    }
+}
