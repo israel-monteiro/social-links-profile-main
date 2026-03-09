@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 * Solution URL: [Click here](https://www.frontendmentor.io/solutions/social-links-profile-main-NNrxVfYZcH)
-* Live Site URL: [Click here](https://israel-monteiro.github.io/)
+* Live Site URL: [Click here](https://israel-monteiro.github.io/social-links-profile-main/)
 
 ## My process
 
