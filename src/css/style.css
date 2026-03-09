@@ -99,10 +99,14 @@ main {
 
 }
 
-.social-links a:hover {
+.social-links a:hover,
+.social-links a:focus-visible {
     background: var(--color-green);
     color: var(--color-grey-700);
     font-weight: 900;
 }
 
-
+.social-links a:focus-visible {
+    outline: 3px solid var(--color-green);
+    outline-offset: 3px;
+}
